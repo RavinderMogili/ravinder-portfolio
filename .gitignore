@@ -13,6 +13,11 @@ dist-ssr
 *.local
 *.zip
 
+# Leftovers from the old design, kept locally but not in the repo
+tailwind.config.js
+src/components/ui/
+src/assets/react.svg
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
